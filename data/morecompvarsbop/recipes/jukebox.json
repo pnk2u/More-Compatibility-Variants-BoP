@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "jukebox",
+  "key": {
+    "0": {
+      "item": "minecraft:diamond"
+    },
+    "P": {
+      "tag": "morecompvarsbop:planks"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "P0P",
+    "PPP"
+  ],
+  "result": {
+    "item": "minecraft:jukebox"
+  }
+}

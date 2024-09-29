@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "composter",
+  "key": {
+    "#": {
+      "tag": "morecompvarsbop:slabs"
+    }
+        },
+  "pattern":  [
+  "# #",
+  "# #",
+  "###"
+ ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:composter"
+  }
+}

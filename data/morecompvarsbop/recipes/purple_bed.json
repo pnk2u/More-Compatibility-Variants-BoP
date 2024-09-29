@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "bed_from_planks",
+  "key": {
+    "W": {
+      "item": "minecraft:purple_wool"
+    },
+    "_": {
+      "tag": "morecompvarsbop:planks"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "___"
+  ],
+  "result": {
+    "item": "minecraft:purple_bed"
+  }
+}

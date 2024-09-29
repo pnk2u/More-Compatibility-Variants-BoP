@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "chiseled_bookshelves",
+  "key": {
+    "#": {
+      "tag": "morecompvarsbop:planks"
+    },
+     "-": {
+       "tag": "morecompvarsbop:slabs"
+     }
+        },
+   "pattern":  [
+  "###",
+  "---",
+  "###"
+ ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:chiseled_bookshelf"
+  }
+}

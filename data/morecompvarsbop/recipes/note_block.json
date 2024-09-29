@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "note_block",
+  "key": {
+    "+": {
+      "item": "minecraft:redstone"
+    },
+    "P": {
+      "tag": "morecompvarsbop:planks"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "P+P",
+    "PPP"
+  ],
+  "result": {
+    "item": "minecraft:note_block"
+  }
+}

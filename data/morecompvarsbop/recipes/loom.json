@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "morecompvarsbop:planks"
+    },
+    "@": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "@@",
+    "##"
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:loom"
+  }
+}

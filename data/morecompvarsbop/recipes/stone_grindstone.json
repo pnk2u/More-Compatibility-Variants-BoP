@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "stone_grindstones",
+  "key": {
+    "-": {
+      "item": "minecraft:stone_slab"
+    },
+    "P": {
+      "tag": "morecompvarsbop:planks"
+    },
+    "|": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "|-|",
+    "P P"
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:grindstone"
+  }
+}
