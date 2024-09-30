@@ -1,8 +1,10 @@
 {
   "replace": false,
   "values": [
-    "lolmfv:deepslate_furnace",
-    "lolmfv:blackstone_furnace",
+    {
+      "id": "#lieonstudio:furnaces",
+      "required": false
+    },
     "minecraft:furnace"
   ]
 }
