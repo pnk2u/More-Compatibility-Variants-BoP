@@ -1,5 +1,14 @@
 {
   "type": "minecraft:crafting_shaped",
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded" ,
+      "values": [
+        "mstv-base"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "group": "wooden_axes",
   "key": {
