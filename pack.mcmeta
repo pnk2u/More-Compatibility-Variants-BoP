@@ -1,7 +1,7 @@
 {
   "pack": {
-    "pack_format": 26,
-	"supported_formats": { "min_inclusive": 19, "max_inclusive": 26 },
+    "pack_format": 41,
+	"supported_formats": { "min_inclusive": 41, "max_inclusive": 47 },
     "description": "Adding compatibility for Biomes o' Plenty wood types to More Variants Mods. This is NOT an expansion, it simply resolves a crafting issue between these mods and BoP."
   }
 }
