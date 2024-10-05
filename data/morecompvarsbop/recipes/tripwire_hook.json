@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "fabric:load_conditions": [
+        {
+          "condition": "fabric:all_mods_loaded" ,
+          "values": [
+            "mstv-base"
+          ]
+        }
+      ],
+  "group": "tripwire_hook",
+  "category": "redstone",
+  "key": {
+    "#": {
+      "tag": "morecompvarsbop:planks"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "tag": "mstv-base:sticks"
+    }
+  },
+  "pattern": [
+    "I",
+    "S",
+    "#"
+  ],
+  "result": {
+    "count": 2,
+    "item": "minecraft:tripwire_hook"
+  }
+}
