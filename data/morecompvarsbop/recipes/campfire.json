@@ -41,6 +41,6 @@
     "LLL"
   ],
   "result": {
-    "item": "minecraft:campfire"
+    "id": "minecraft:campfire"
   }
 }

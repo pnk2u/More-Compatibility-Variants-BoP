@@ -24,6 +24,6 @@
     "PPP"
   ],
   "result": {
-    "item": "minecraft:note_block"
+    "id": "minecraft:note_block"
   }
 }
