@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "wooden_fence",
   "key": {
-    "#": {
-      "tag": "mstv-base:sticks"
-    },
-    "W": {
-      "item": "biomesoplenty:palm_planks"
-    }
+    "#": "#mstv-base:sticks",
+    "W": "biomesoplenty:palm_planks"
   },
   "pattern": [
     "W#W",

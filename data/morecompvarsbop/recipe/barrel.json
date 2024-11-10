@@ -16,12 +16,8 @@
     "#-#"
   ],
   "key": {
-    "#": {
-      "tag": "morecompvarsbop:planks"
-    },
-    "-": {
-      "tag": "morecompvarsbop:slabs"
-    }
+    "#": "#morecompvarsbop:planks",
+    "-": "#morecompvarsbop:slabs"
   },
   "result": {
     "count": 1,

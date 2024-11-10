@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "wooden_sign",
   "key": {
-    "#": {
-      "item": "biomesoplenty:magic_planks"
-    },
-    "X": {
-      "tag": "mstv-base:sticks"
-    }
+    "#": "biomesoplenty:magic_planks",
+    "X": "#mstv-base:sticks"
   },
   "pattern": [
     "###",

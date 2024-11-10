@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "jukebox",
   "key": {
-    "0": {
-      "item": "minecraft:diamond"
-    },
-    "P": {
-      "tag": "morecompvarsbop:planks"
-    }
+    "0": "minecraft:diamond",
+    "P": "#morecompvarsbop:planks"
   },
   "pattern": [
     "PPP",

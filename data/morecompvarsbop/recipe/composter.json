@@ -11,9 +11,7 @@
   "category": "misc",
   "group": "composter",
   "key": {
-    "#": {
-      "tag": "morecompvarsbop:slabs"
-    }
+    "#": "#morecompvarsbop:slabs"
         },
   "pattern":  [
   "# #",

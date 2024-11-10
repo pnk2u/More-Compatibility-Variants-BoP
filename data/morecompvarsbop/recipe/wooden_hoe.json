@@ -12,12 +12,8 @@
   "category": "equipment",
   "group": "wooden_hoes",
   "key": {
-    "#": {
-      "item": "minecraft:stick"
-    },
-    "X": {
-      "tag": "morecompvarsbop:planks"
-    }
+    "#": "minecraft:stick",
+    "X": "#morecompvarsbop:planks"
   },
   "pattern": [
     "XX",

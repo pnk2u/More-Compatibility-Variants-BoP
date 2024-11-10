@@ -11,12 +11,8 @@
   "category": "building",
   "group": "bed_from_planks",
   "key": {
-    "W": {
-      "item": "minecraft:yellow_wool"
-    },
-    "_": {
-      "tag": "morecompvarsbop:planks"
-    }
+    "W": "minecraft:yellow_wool",
+    "_": "#morecompvarsbop:planks"
   },
   "pattern": [
     "WWW",

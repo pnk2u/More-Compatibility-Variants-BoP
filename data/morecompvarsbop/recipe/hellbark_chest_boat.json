@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "chest_boat",
   "ingredients": [
-    {
-      "tag": "morecompvarsbop:chests"
-    },
-    {
-      "item": "biomesoplenty:hellbark_boat"
-    }
+    "#morecompvarsbop:chests",
+    "biomesoplenty:hellbark_boat"
   ],
   "result": {
     "id": "biomesoplenty:hellbark_chest_boat"

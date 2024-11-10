@@ -25,15 +25,9 @@
   "category": "building",
   "group": "basalt_grindstones",
   "key": {
-    "-": {
-      "tag": "lolmgv:basalt_grindstone_ingredients"
-    },
-    "P": {
-      "tag": "morecompvarsbop:planks"
-    },
-    "|": {
-      "item": "minecraft:stick"
-    }
+    "-": "#lolmgv:basalt_grindstone_ingredients",
+    "P": "#morecompvarsbop:planks",
+    "|": "minecraft:stick"
   },
   "pattern": [
     "|-|",

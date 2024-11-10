@@ -10,12 +10,8 @@
   "type": "minecraft:crafting_shaped",
   "group": "bookshelf",
   "key": {
-    "b": {
-      "item": "minecraft:book"
-    },
-    "#": {
-      "tag": "morecompvarsbop:planks"
-    }
+    "b": "minecraft:book",
+    "#": "#morecompvarsbop:planks"
   },
   "pattern": [
     "###",

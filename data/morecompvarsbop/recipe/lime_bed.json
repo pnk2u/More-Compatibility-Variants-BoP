@@ -11,12 +11,8 @@
   "category": "building",
   "group": "bed_from_planks",
   "key": {
-    "W": {
-      "item": "minecraft:lime_wool"
-    },
-    "_": {
-      "tag": "morecompvarsbop:planks"
-    }
+    "W": "minecraft:lime_wool",
+    "_": "#morecompvarsbop:planks"
   },
   "pattern": [
     "WWW",

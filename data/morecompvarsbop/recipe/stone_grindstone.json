@@ -25,15 +25,9 @@
   "category": "building",
   "group": "stone_grindstones",
   "key": {
-    "-": {
-      "item": "minecraft:stone_slab"
-    },
-    "P": {
-      "tag": "morecompvarsbop:planks"
-    },
-    "|": {
-      "item": "minecraft:stick"
-    }
+    "-": "minecraft:stone_slab",
+    "P": "#morecompvarsbop:planks",
+    "|": "minecraft:stick"
   },
   "pattern": [
     "|-|",

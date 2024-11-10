@@ -11,12 +11,8 @@
   "category": "building",
   "group": "sandstone_grindstones",
   "key": {
-    "-": {
-      "tag": "lolmgv:sandstone_grindstone_ingredients"
-    },
-    "P": {
-      "tag": "morecompvarsbop:planks"
-    },
+    "-": "#lolmgv:sandstone_grindstone_ingredients",
+    "P": "#morecompvarsbop:planks",
     "|": {
 		"tag": "mstv-base:sticks"
     }

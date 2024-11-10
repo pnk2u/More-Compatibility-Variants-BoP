@@ -10,12 +10,8 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "morecompvarsbop:logs"
-    },
-    "X": {
-      "tag": "morecompvarsbop:furnaces"
-    }
+    "#": "#morecompvarsbop:logs",
+    "X": "#morecompvarsbop:furnaces"
   },
   "pattern": [
     " # ",

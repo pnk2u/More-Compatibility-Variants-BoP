@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "chest_boat",
   "ingredients": [
-    {
-      "tag": "morecompvarsbop:chests"
-    },
-    {
-      "item": "biomesoplenty:pine_boat"
-    }
+    "#morecompvarsbop:chests",
+    "biomesoplenty:pine_boat"
   ],
   "result": {
     "id": "biomesoplenty:pine_chest_boat"

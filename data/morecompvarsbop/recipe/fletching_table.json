@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "fletchingtable",
   "key": {
-    "#": {
-      "tag": "morecompvarsbop:planks"
-    },
-    "@": {
-      "item": "minecraft:flint"
-    }
+    "#": "#morecompvarsbop:planks",
+    "@": "minecraft:flint"
   },
   "pattern": [
     "@@",

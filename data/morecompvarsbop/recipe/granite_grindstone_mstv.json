@@ -11,12 +11,8 @@
   "category": "building",
   "group": "granite_grindstones",
   "key": {
-    "-": {
-      "tag": "lolmgv:granite_grindstone_ingredients"
-    },
-    "P": {
-      "tag": "morecompvarsbop:planks"
-    },
+    "-": "#lolmgv:granite_grindstone_ingredients",
+    "P": "#morecompvarsbop:planks",
     "|": {
 		"tag": "mstv-base:sticks"
     }

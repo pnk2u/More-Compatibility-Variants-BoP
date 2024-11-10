@@ -29,9 +29,7 @@
     "###"
   ],
   "key": {
-    "#": {
-      "tag": "morecompvarsbop:planks"
-    }
+    "#": "#morecompvarsbop:planks"
   },
   "result": {
     "id": "minecraft:chest",

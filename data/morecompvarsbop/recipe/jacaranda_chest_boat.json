@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "chest_boat",
   "ingredients": [
-    {
-      "tag": "morecompvarsbop:chests"
-    },
-    {
-      "item": "biomesoplenty:jacaranda_boat"
-    }
+    "#morecompvarsbop:chests",
+    "biomesoplenty:jacaranda_boat"
   ],
   "result": {
     "id": "biomesoplenty:jacaranda_chest_boat"

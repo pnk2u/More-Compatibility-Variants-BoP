@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "wooden_sign",
   "key": {
-    "#": {
-      "item": "biomesoplenty:mahogany_planks"
-    },
-    "X": {
-      "tag": "mstv-base:sticks"
-    }
+    "#": "biomesoplenty:mahogany_planks",
+    "X": "#mstv-base:sticks"
   },
   "pattern": [
     "###",

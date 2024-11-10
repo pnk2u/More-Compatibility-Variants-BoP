@@ -13,9 +13,7 @@
     "##"
   ],
   "key": {
-    "#": {
-      "tag": "morecompvarsbop:planks"
-    }
+    "#": "#morecompvarsbop:planks"
   },
   "result": {
     "id": "minecraft:crafting_table"

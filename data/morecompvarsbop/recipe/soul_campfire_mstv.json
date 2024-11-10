@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "campfires",
   "key": {
-    "#": {
-      "tag": "minecraft:soul_fire_base_blocks"
-    },
-    "L": {
-      "tag": "morecompvarsbop:logs"
-    },
+    "#": "#minecraft:soul_fire_base_blocks",
+    "L": "#morecompvarsbop:logs",
     "S": {
 		"tag": "mstv-base:sticks"
     }

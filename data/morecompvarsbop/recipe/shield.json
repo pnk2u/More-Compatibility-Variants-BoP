@@ -10,12 +10,8 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "W": {
-      "tag": "morecompvarsbop:planks"
-    },
-    "o": {
-      "item": "minecraft:iron_ingot"
-    }
+    "W": "#morecompvarsbop:planks",
+    "o": "minecraft:iron_ingot"
   },
   "pattern": [
     "WoW",
