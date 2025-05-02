@@ -13,9 +13,7 @@
   "key": {
     "C": "#minecraft:coals",
     "L": "#morecompvarsbop:logs",
-    "S": {
-		"tag": "mstv-base:sticks"
-    }
+    "S": "#mstv-base:sticks"
   },
   "pattern": [
     " S ",

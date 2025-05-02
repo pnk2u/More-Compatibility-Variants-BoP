@@ -13,9 +13,7 @@
   "key": {
     "#": "#minecraft:soul_fire_base_blocks",
     "L": "#morecompvarsbop:logs",
-    "S": {
-		"tag": "mstv-base:sticks"
-    }
+    "S": "#mstv-base:sticks"
   },
   "pattern": [
     " S ",
