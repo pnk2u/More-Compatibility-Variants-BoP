@@ -13,6 +13,10 @@
     "#biomesoplenty:magic_logs",
     "#biomesoplenty:umbran_logs",
     "#biomesoplenty:hellbark_logs",
-    "#biomesoplenty:empyreal_logs"
+    "#biomesoplenty:empyreal_logs",
+    {
+      "id": "#morecompvarsbop:origin_oak_logs",
+      "required": false
+    }
   ]
 }

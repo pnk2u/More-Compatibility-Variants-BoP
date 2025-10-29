@@ -13,6 +13,10 @@
     "biomesoplenty:magic_planks",
     "biomesoplenty:umbran_planks",
     "biomesoplenty:hellbark_planks",
-    "biomesoplenty:empyreal_planks"
+    "biomesoplenty:empyreal_planks",
+    {
+      "id": "morecompvarsbop:origin_oak_planks",
+      "required": false
+    }
   ]
 }

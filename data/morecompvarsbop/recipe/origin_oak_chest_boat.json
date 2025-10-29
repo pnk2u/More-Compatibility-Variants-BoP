@@ -1,0 +1,27 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "lolmcv"
+      ]
+    },
+    {
+      "condition": "fabric:registry_contains",
+      "registry": "minecraft:item",
+      "values": [
+        "biomesoplenty:origin_oak_chest_boat"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "chest_boat",
+  "ingredients": [
+    "#morecompvarsbop:chests",
+    "biomesoplenty:origin_oak_boat"
+  ],
+  "result": {
+    "id": "biomesoplenty:origin_oak_chest_boat"
+  }
+}

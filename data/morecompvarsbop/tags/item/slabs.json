@@ -13,6 +13,10 @@
     "biomesoplenty:pine_slab",
     "biomesoplenty:redwood_slab",
     "biomesoplenty:umbran_slab",
-    "biomesoplenty:willow_slab"
+    "biomesoplenty:willow_slab",
+    {
+      "id": "morecompvarsbop:origin_oak_slab",
+      "required": false
+    }
   ]
 }
